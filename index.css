@@ -44,12 +44,6 @@
     left: 10%;
     font-size: 2em;
 }
-/* Styles for desktop */
-.main-container {
-    width: 960px;
-}
-
-/* Styles for mobile */
 @media (max-width: 768px) {
     .main-container {
         width: 100%;
